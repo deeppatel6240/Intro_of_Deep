@@ -6,7 +6,6 @@
 - 💬 Ask me about Machine Learning.
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/deep-sherathiya)
 - ⚡ Fun fact: I am half finish.
--->
 
 ### About Me
 
