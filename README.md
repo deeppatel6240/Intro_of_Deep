@@ -9,4 +9,4 @@
 
 ### About Me
 
-I am 
+  My Self Deep Sherathiya, I am Studying 4th year of Computer Engineering. I hava a great area of interest in Machine Learning and Deep Learning. I have done many projects in Machine Learning using Python and I have great idea for developing supervised learning models.
