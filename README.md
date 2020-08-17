@@ -2,11 +2,10 @@
 
 - 🔭 I’m currently working on eye gaze detection using python.
 - 🌱 I’m currently learning machine learning.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for Work from Home Internship in ML.
 - 💬 Ask me about Machine Learning.
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/deep-sherathiya)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am half finish.
 -->
 
 ### About Me
