@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Deep Sherathiya
 
-- 🔭 I’m currently working on eye gaze detection using python.
-- 🌱 I’m currently learning machine learning.
+- 🔭 I’m have finally work done in eye gaze detection using python.
+- 🌱 I’m currently learning Unsupervised Learning.
 - 🤔 I’m looking for Work from Home Internship in ML.
 - 💬 Ask me about Machine Learning.
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/deep-sherathiya)
